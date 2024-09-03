@@ -126,6 +126,7 @@ Version: 1.0.0
   color: var(--header);
 }
 
+
 .link-btn {
   text-transform: capitalize;
   color: var(--header);
